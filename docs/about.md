@@ -1,4 +1,4 @@
-Aquí tienes la versión modificada adaptada al tema "Sistemas Embebidos" y con **El SENA** en lugar de **CESDE**:
+"Mecatrónica" **Poli JIC**:
 
 ---
 
